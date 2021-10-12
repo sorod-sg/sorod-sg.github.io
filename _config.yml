@@ -18,18 +18,18 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: VCisHere                          # the main title
+title: Chaconne                         # the main title
 
-tagline: (°ー°〃)   # it will display as the sub-title
+tagline:  it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  VC的博客
+ Chaconne的博客
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
 
 github:
-  username: VCisHere             # change to your github username
+  username: sorod-sg             # change to your github username
 
 #twitter:
 #  username: twitter_username            # change to your twitter username
@@ -37,12 +37,12 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: VCisHere
-  email: vcishere01@gmail.com             # change to your email address
+  name: Chaconne
+  email: guofuyu34@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/VCisHere       # change to your github homepage
+    - https://github.com/sorod-sg       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
